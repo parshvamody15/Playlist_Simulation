@@ -48,6 +48,9 @@ This project aims to **simulate the working of a playlist** using **data structu
    - Users can choose to **play the entire playlist** or **define a custom playing order**.  
    - The user can **pause/play songs** and move **next/previous** using a menu.  
 
+**📷 Workflow Diagram**  
+![Workflow Diagram](images/workflow.png)  
+
 ---
 
 ### Data Structures Used
@@ -64,9 +67,6 @@ This project aims to **simulate the working of a playlist** using **data structu
 3️⃣ **Doubly Circular Linked List (Playing Order)**  
    - If a user wants a **custom playing order**, another linked list is created.  
    - The **existing playlist songs** are rearranged based on user preference.  
-
-**📷 Playlist Data Structure**  
-![Playlist Data Structure](images/playlist_structure.png)  
 
 ---
 
