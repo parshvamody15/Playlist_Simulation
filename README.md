@@ -49,7 +49,9 @@ This project aims to **simulate the working of a playlist** using **data structu
    - The user can **pause/play songs** and move **next/previous** using a menu.  
 
 **📷 Workflow Diagram**  
-![Workflow Diagram](images/workflow.png)  
+![Workflow Diagram](images/workflow1.png)
+![Workflow Diagram](images/workflow2.png)
+![Workflow Diagram](images/workflow3.png)  
 
 ---
 
@@ -95,7 +97,7 @@ Users can **add** predefined songs to their playlist.
 Users can view the current playlist at any time.  
 
 **📷 Playlist Output Example**  
-![Playlist Output](images/playlist_output.png)  
+![Playlist Output](images/print.png)  
 
 ### Using the Playlist  
 Users can:  
@@ -104,13 +106,13 @@ Users can:
 ✔ Edit the playlist anytime.  
 
 **📷 Playlist Functions**  
-![Playlist Functions](images/playlist_functions.png)  
+![Playlist Functions](images/functions.png)  
 
 ### Creating and Managing Playing Order  
 Users can define a **custom playing order** and play songs accordingly.  
 
 **📷 Playing Order Functions**  
-![Playing Order](images/playing_order.png)  
+![Playing Order](images/playingorder.png)  
 
 ---
 
